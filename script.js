@@ -55,6 +55,7 @@ const cards = [
     },
 ]
 
+
 function createCards(imgUrl,imgAlt,header,description){
     var gridItemDiv = document.createElement('div');
 gridItemDiv.classList.add('gridItem');
